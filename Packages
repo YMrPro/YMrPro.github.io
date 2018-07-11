@@ -8,6 +8,7 @@ MD5sum: 09de159e77884cde9c2e7be7279b8ac3
 SHA1: 54A27908FCDE5C746FB225F3759C56E44261BE7C
 SHA256: DCCB71F51CE1E68D53E3D5144470268D5A803EC1E9DFF3C4C816E8F129EDB046
 Section: Tweaks
-Description: تغيير شكل الدوك و جعل الدوك يقبل 5 تطبيقات
+Description: تغيير شكل الدوك و جعل الدوك يقبل 5 تطبيقات /dockxi.png
+image
 Author: XCXiao <bigboss@thebigboss.org>
 Name: DockXI
