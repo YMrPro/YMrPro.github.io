@@ -1,13 +1,13 @@
-Package: com.ymrpro.DockXL
+Package: com.ymrpro.DockXI
 Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: YMrPro <idklol@list.ru>
-Filename: /DockXL.deb
+Filename: /DockXI.deb
 Size: 17784
-MD5sum: 09DE159E77884CDE9C2E7BE7279B8AC3
+MD5sum: 09de159e77884cde9c2e7be7279b8ac3
 SHA1: 54A27908FCDE5C746FB225F3759C56E44261BE7C
 SHA256: DCCB71F51CE1E68D53E3D5144470268D5A803EC1E9DFF3C4C816E8F129EDB046
 Section: Tweaks
-Description: 5 Dock icon + ios 11 dock
+Description: تغيير شكل الدوك و جعل الدوك يقبل 5 تطبيقات
 Author: XCXiao <bigboss@thebigboss.org>
-Name: DockXL
+Name: DockXI
