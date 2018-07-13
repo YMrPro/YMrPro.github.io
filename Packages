@@ -1,4 +1,4 @@
-Package: com.ymrpro.github.io.enlightvideoleaphack
+Package: com.ymrpro.Videoleap
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: YMrPro <idklol@list.ru>
@@ -9,6 +9,6 @@ SHA1: A025B6DD5A20AAD6056C049D51AD163C61EB0D49
 SHA256: CF050AF43C84043BE6EB4F5E6034CB0144C303A4E3F41CDBF92028B0EF5ED32F
 Section: Tweaks
 Description: تهكير تطبيق VideoLeap الخاص بتعديل الفيديوهات
-icon: /VidH.png
+icon: ///VidH.png
 Author: Pxcex <idklol@list.ru>
 Name: Enlight VideoLeap Hack
