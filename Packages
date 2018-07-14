@@ -1,4 +1,4 @@
-Package: com.ymrpro.enlightvideoleaphack
+Package: com.ymrpro.Videoleap
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: YMrPro <idklol@list.ru>
@@ -12,6 +12,7 @@ Description: تهكير تطبيق VideoLeap الخاص بتعديل الفيد�
 Description: تعمل على نظام 10 الى 11
 Author: Pxcex <idklol@list.ru>
 Name: Enlight VideoLeap Hack
+
 
 Package: com.ymrpro.fortnitebypass
 Version: 5.0.0
