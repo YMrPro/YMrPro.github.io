@@ -9,6 +9,21 @@ SHA1: A025B6DD5A20AAD6056C049D51AD163C61EB0D49
 SHA256: CF050AF43C84043BE6EB4F5E6034CB0144C303A4E3F41CDBF92028B0EF5ED32F
 Section: Tweaks
 Description: تهكير تطبيق VideoLeap الخاص بتعديل الفيديوهات
-icon: /VidH.png
+Description: تعمل على نظام 10 الى 11
 Author: Pxcex <idklol@list.ru>
 Name: Enlight VideoLeap Hack
+
+Package: com.ymrpro.fortnitebypass
+Version: 5.0.0
+Architecture: iphoneos-arm
+Maintainer: YMrPro <idklol@list.ru>
+Filename: /FortniteBypass.deb
+Size: 2710
+MD5sum: 81959B5CDA3D47EA35A0C50F0F6C29A0
+SHA1: E80C6E0DD412C5A87EC799ED9A4BD38BD2ED6FCA
+SHA256: 5FD6B9CB580822A043C98076313954BB59147B89A28533645B50D90546CE7134
+Section: Tweaks
+Description: تخطي كاشف الجلبريك للعبة فورتنايت
+Description: تعمل على نظام 11 الى 11.3.1
+Author: akusio <idklol@list.ru>
+Name: Fortnite Bypass
