@@ -2,14 +2,14 @@ Package: com.ymrpro.Videoleap
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: YMrPro <idklol@list.ru>
-Filename: ./Debs/VideoLeapHack.deb
+Filename: /Debs/VideoLeapHack.deb
 Size: 17784
 MD5sum: 32C2D94D4A43F8B0F381F580C0A48259
 SHA1: A025B6DD5A20AAD6056C049D51AD163C61EB0D49
 SHA256: CF050AF43C84043BE6EB4F5E6034CB0144C303A4E3F41CDBF92028B0EF5ED32F
 Section: Tweaks
 Description: تهكير تطبيق VideoLeap الخاص بتعديل الفيديوهات
-Description: /Website/VideoLeap.html
+Description: https://ymrpro.github.io/Website/VideoLeap.html
 Author: Pxcex <idklol@list.ru>
 Name: Enlight VideoLeap Hack
 
@@ -18,13 +18,13 @@ Package: com.ymrpro.fortnitebypass
 Version: 5.0.0
 Architecture: iphoneos-arm
 Maintainer: YMrPro <idklol@list.ru>
-Filename: ./Debs/FortniteBypass.deb
+Filename: /Debs/FortniteBypass.deb
 Size: 2710
 MD5sum: 81959B5CDA3D47EA35A0C50F0F6C29A0
 SHA1: E80C6E0DD412C5A87EC799ED9A4BD38BD2ED6FCA
 SHA256: 5FD6B9CB580822A043C98076313954BB59147B89A28533645B50D90546CE7134
 Section: Tweaks
-Description: /Website/FortniteBypass.html
+Description: https://YMrPro.github.io/Website/FortniteBypass.html
 icon: ./Debs-icons/VidH.png
 Author: akusio <idklol@list.ru>
 Name: Fortnite Bypass
