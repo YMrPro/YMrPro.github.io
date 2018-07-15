@@ -10,6 +10,7 @@ SHA256: CF050AF43C84043BE6EB4F5E6034CB0144C303A4E3F41CDBF92028B0EF5ED32F
 Section: Tweaks
 Description: الخاص بتعديل الفيديوهات VideoLeap تهكير تطبيق
 Depiction: https://ymrpro.github.io/Website/VideoLeap.html
+icon: https://i.imgur.com/Tl3DbND.jpg
 Author: Pxcex <idklol@list.ru>
 Name: Enlight VideoLeap Hack
 
@@ -26,6 +27,6 @@ SHA256: 5FD6B9CB580822A043C98076313954BB59147B89A28533645B50D90546CE7134
 Section: Tweaks
 Description: تخطي كاشف الجلبريك للعبة فورتنايت
 Depiction: https://YMrPro.github.io/Website/FortniteBypass.html
-icon: ./Debs-icons/VidH.png
+icon: https://i.imgur.com/JVhSdqU.jpg
 Author: akusio <idklol@list.ru>
 Name: Fortnite Bypass
