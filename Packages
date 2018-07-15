@@ -2,7 +2,7 @@ Package: com.ymrpro.Videoleap
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: YMrPro <idklol@list.ru>
-Filename: ./Debs/VideoLeapHack.deb
+Filename: ./Debs/VideoLeapHack-0.0.2-.deb
 Size: 17784
 MD5sum: 32C2D94D4A43F8B0F381F580C0A48259
 SHA1: A025B6DD5A20AAD6056C049D51AD163C61EB0D49
@@ -19,7 +19,7 @@ Package: com.ymrpro.fortnitebypass
 Version: 5.0.0
 Architecture: iphoneos-arm
 Maintainer: YMrPro <idklol@list.ru>
-Filename: /Debs/FortniteBypass.deb
+Filename: /Debs/FortniteBypass-5.0.0-.deb
 Size: 2710
 MD5sum: 81959B5CDA3D47EA35A0C50F0F6C29A0
 SHA1: E80C6E0DD412C5A87EC799ED9A4BD38BD2ED6FCA
