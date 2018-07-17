@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: YMrPro <idklol@list.ru>
 Filename: /Debs/VideoLeapHack-0.0.2-.deb
 Size: 17784
-MD5sum: 32C2D94D4A43F8B0F381F580C0A48259
-SHA1: A025B6DD5A20AAD6056C049D51AD163C61EB0D49
-SHA256: CF050AF43C84043BE6EB4F5E6034CB0144C303A4E3F41CDBF92028B0EF5ED32F
+MD5sum: 32c2d94d4a43f8b0f381f580c0a48259
+SHA1: a025b6dd5a20aad6056c049d51ad163c61eb0d49
+SHA256: cf050af43c84043be6eb4f5e6034cb0144c303a4e3f41cdbf92028b0ef5ed32f
 Section: Tweaks
 Description: الخاص بتعديل الفيديوهات VideoLeap تهكير تطبيق
 Depiction: https://ymrpro.github.io/Website/VideoLeap.html
