@@ -1,13 +1,14 @@
-Package: com.ymrpro.videoleap
+Package: com.pxcex.enlightvideoleaphack
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: YMrPro <idklol@list.ru>
-Filename: /Debs/VideoLeapHack-0.0.2-.deb
-Size: 17784
-MD5sum: 32c2d94d4a43f8b0f381f580c0a48259
-SHA1: a025b6dd5a20aad6056c049d51ad163c61eb0d49
-SHA256: cf050af43c84043be6eb4f5e6034cb0144c303a4e3f41cdbf92028b0ef5ed32f
+Filename: Debs/com.pxcex.enlightvideoleaphack_0.0.2_iphoneos-arm.deb
+Size: 56880
+MD5sum: ac982d5536d51700e33539f793c343c8
+SHA1: 78274649ef4489bb3943fc5d0de00b453af555c1
+SHA256: 47d9c30efc67520b46b525deba438d126d84e2d2c8a0d7aa0b2a1ef48f5e0667
 Section: Tweaks
+Priority: optional
 Description: الخاص بتعديل الفيديوهات VideoLeap تهكير تطبيق
 Depiction: https://ymrpro.github.io/Website/VideoLeap.html
 icon: https://i.imgur.com/Tl3DbND.jpg
@@ -19,31 +20,15 @@ Package: com.ymrpro.fortnitebypass
 Version: 5.0.0
 Architecture: iphoneos-arm
 Maintainer: YMrPro <idklol@list.ru>
-Filename: /Debs/FortniteBypass-5.0.0-.deb
+Filename: Debs/FortniteBypass-5.0.0-.deb
 Size: 2710
-MD5sum: 81959B5CDA3D47EA35A0C50F0F6C29A0
-SHA1: E80C6E0DD412C5A87EC799ED9A4BD38BD2ED6FCA
-SHA256: 5FD6B9CB580822A043C98076313954BB59147B89A28533645B50D90546CE7134
+MD5sum: 81959b5cda3d47ea35a0c50f0f6c29a0
+SHA1: e80c6e0dd412c5a87ec799ed9a4bd38bd2ed6fca
+SHA256: 5fd6b9cb580822a043c98076313954bb59147b89a28533645b50d90546ce7134
 Section: Tweaks
+Priority: optional
 Description: تخطي كاشف الجلبريك للعبة فورتنايت
 Depiction: https://YMrPro.github.io/Website/FortniteBypass.html
 icon: https://i.imgur.com/JVhSdqU.jpg
 Author: akusio <idklol@list.ru>
 Name: Fortnite Bypass
-
-
-Package: com.ymrpro.Filza
-Version: 3.5.2-1
-Architecture: iphoneos-arm
-Maintainer: YMrPro <idklol@list.ru>
-Filename: /Debs/filzafilemanager_3.5.2-1.deb
-Size: 41,288
-MD5sum: 439B0381D6CCD3F3B91762B78587132F
-SHA1: F9B8089E9FC176A02DEF1852F08F62C4C7D3ECC7
-SHA256: E88AEAF3AED34E4C497808FC9950055954E3742D857D6EEFA2EF181111AB6B3A
-Section: Tweaks
-Description: التعديل على ملفات النظام, من الادوات المهم
-Depiction: https://YMrPro.github.io/Website/Filza.html
-icon: /Debs-icons/Filza.png
-Author: TIGI Software <satashi2009@gmail.com>
-Name: Filza File Manager
