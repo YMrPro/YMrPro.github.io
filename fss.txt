@@ -1,0 +1,5 @@
+unsupported/Bad ip:
+ip range from 15.184.20.64 to 15.184.100.255
+
+Supported/Good ip
+ip range from 143.131.160.0 to 143.131.161.255
