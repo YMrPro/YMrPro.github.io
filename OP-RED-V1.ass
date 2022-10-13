@@ -14,9 +14,9 @@ Video File: [Meme-Rips] One Piece Film Red (Cam - 1080P Eng Sub) V2.mp4
 Video AR Mode: 4
 Video AR Value: 1.737557
 Video Zoom Percent: 0.375000
-Scroll Position: 201
-Active Line: 204
-Video Position: 28567
+Scroll Position: 224
+Active Line: 230
+Video Position: 31573
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -98,7 +98,7 @@ Dialogue: 0,0:05:01.00,0:05:02.99,Default,,0,0,0,,♫ Reach even further ♫
 Dialogue: 0,0:05:03.83,0:05:06.33,Default,,0,0,0,,♫ This dream will come true ♫
 Dialogue: 0,0:05:06.56,0:05:08.49,Default,,0,0,0,,♫ I believe in you ♫
 Dialogue: 0,0:05:29.03,0:05:32.26,Default,,0,0,0,,♫ Say goodbye to everything that's weighing you down ♫
-Dialogue: 0,0:05:32.33,0:05:36.69,Default,,0,0,0,,♫ A Transcend beyond reality to colorful worlds of music ♫
+Dialogue: 0,0:05:32.33,0:05:36.69,Default,,0,0,0,,♫ Transcend beyond reality to colorful worlds of music ♫
 Dialogue: 0,0:05:36.70,0:05:39.49,Default,,0,0,0,,♫ We need to keep on rising ♫
 Dialogue: 0,0:05:40.40,0:05:43.26,Default,,0,0,0,,♫ Close your eyes and take my hand we're runnin' together ♫
 Dialogue: 0,0:05:43.30,0:05:46.73,Default,,0,0,0,,♫ We don't have to live like this, I know we can all do better ♫
@@ -217,7 +217,7 @@ Dialogue: 0,0:14:46.76,0:14:49.13,Default,,0,0,0,,I've never heard of it.
 Dialogue: 0,0:14:49.13,0:14:51.16,Default,,0,0,0,,What's this!
 Dialogue: 0,0:14:51.16,0:14:54.33,Default,,0,0,0,,What are you doing? We have to hurry back!
 Dialogue: 0,0:14:56.63,0:14:59.79,Default,,0,0,0,,I have good news for everyone!
-Dialogue: 0,0:15:00.90,0:15:07.89,Default,,0,0,0,,I always did livestreams with video transponder snails. I would always get tired and sleepy 
+Dialogue: 0,0:15:00.90,0:15:07.89,Default,,0,0,0,,I always did livestreams with video transponder snails. I would always get tired and sleepy
 Dialogue: 0,0:15:08.16,0:15:11.83,Default,,0,0,0,,and the concert would end quickly. This time, my concert will be endless I will go on forever.
 Dialogue: 0,0:15:12.13,0:15:12.43,Default,,0,0,0,,Kyu?!
 Dialogue: 0,0:15:12.76,0:15:16.09,Default,,0,0,0,,Yes! That means I can be together with everyone forever!
@@ -228,3 +228,30 @@ Dialogue: 0,0:15:30.53,0:15:32.06,Default,,0,0,0,,It's amazing!
 Dialogue: 0,0:15:32.06,0:15:42.96,Default,,0,0,0,,UTA! UTA! UTA! UTA! UTA! UTA!
 Dialogue: 0,0:15:43.00,0:15:45.59,Default,,0,0,0,,One more thing! This is important!
 Dialogue: 0,0:15:45.70,0:15:52.23,Default,,0,0,0,,All you pirates! Marines and World Government people too! Don't get in the way of my concert!
+Dialogue: 0,0:15:52.23,0:15:59.03,Default,,0,0,0,,Everyone is looking for fun things, happy things. If you do something awful, you better be ready
+Dialogue: 0,0:15:59.03,0:16:04.59,Default,,0,0,0,,I'm Uta, the woman who will make a new generation! I'll make everyone happy with my songs!
+Dialogue: 0,0:16:06.46,0:16:10.06,Default,,0,0,0,,Alright, on to the next song!
+Dialogue: 0,0:16:12.93,0:16:15.13,Default,,0,0,0,,Red-Hair had a daughter, did he?
+Dialogue: 0,0:16:12.81,0:16:22.61,Default,,0,0,0,,{\pos(442.101,524.139)}"Heads of the World Goverment, Five Elder Stars."
+Dialogue: 0,0:16:15.13,0:16:17.63,Default,,0,0,0,,it's just like the Cipher Pol report said.
+Dialogue: 0,0:16:17.66,0:16:22.79,Default,,0,0,0,,A new enemy who totally disavows the Great era of piracy has appeared.
+Dialogue: 0,0:16:22.80,0:16:26.79,Default,,0,0,0,,It makes things complicated because the people are on her side.
+Dialogue: 0,0:16:26.80,0:16:30.43,Default,,0,0,0,,We have to quickly nip this revolution in the bud or it will be too late.
+Dialogue: 0,0:16:30.46,0:16:34.61,Default,,0,0,0,,Is that girl a descendant of Figarland?
+Dialogue: 0,0:16:34.63,0:16:38.06,Default,,0,0,0,,I wonder about the existence of Tot Musica as well.
+Dialogue: 0,0:16:38.10,0:16:40.43,Default,,0,0,0,,Tot Musica.
+Dialogue: 0,0:16:40.56,0:16:45.79,Default,,0,0,0,,If that awakens again, being careful is not going to be enough.
+Dialogue: 0,0:16:46.06,0:16:48.53,Default,,0,0,0,,MARIN
+Dialogue: 0,0:16:48.76,0:16:53.53,Default,,0,0,0,,The subjugation of Uta has been decided. She's dangerous.
+Dialogue: 0,0:16:53.53,0:16:59.85,Default,,0,0,0,,That's odd. Just one girl and the whole world is focusing on her.
+Dialogue: 0,0:16:59.86,0:17:02.28,Default,,0,0,0,,Hey, are you underestimating her?
+Dialogue: 0,0:17:02.30,0:17:04.63,Default,,0,0,0,,She's in Elegia, the island of music.
+Dialogue: 0,0:17:05.16,0:17:09.13,Default,,0,0,0,,That's where the Tot Musica was sealed away in ancient times.
+Dialogue: 0,0:17:09.26,0:17:11.91,Default,,0,0,0,,So, how many do you want to send?
+Dialogue: 0,0:17:11.93,0:17:15.49,Default,,0,0,0,,How many ships can we send to Elegia immediately?
+Dialogue: 0,0:17:16.26,0:17:16.69,Default,,0,0,0,,Thirty ships!
+Dialogue: 0,0:17:16.76,0:17:20.95,Default,,0,0,0,,Alright. Take the companies and platoons and send out all the ships!
+Dialogue: 0,0:17:21.73,0:17:25.91,Default,,0,0,0,,If the transponder snails can't be used, orders from the flagship will be done using flag signals, Signal Book Code 044, Each Ship already knows...
+Dialogue: 0,0:17:26.46,0:17:28.45,Default,,0,0,0,,Captain, turn around immediately. Follow the signals and combine forces. Don't rush it. But gather your strength. Don't be lazy! Turn, turn, turn!
+Dialogue: 0,0:17:28.46,0:17:32.43,Default,,0,0,0,,The airflow meter measures a four, a moderate breeze. The surface has long waves, with lots of whitecaps.
+Dialogue: 0,0:17:32.43,0:17:35.73,Default,,0,0,0,,Reports from each vessel, each ship has a Each gunner assemble, check your cannons
